@@ -1,3 +1,4 @@
+// ppmrw_main.c
 #include "ppmrw_io.h"
 
 int main(int argc, char *argv[])
